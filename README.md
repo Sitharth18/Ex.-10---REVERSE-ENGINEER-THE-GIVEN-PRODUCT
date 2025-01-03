@@ -1,6 +1,6 @@
 # Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 7.12.2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -30,9 +30,12 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:Door handle 3D model
+## Input:
+Door handle 3D model
 
-### Output:![Screenshot 2024-11-28 181806](https://github.com/user-attachments/assets/7f7a7f3d-0142-4d8d-9f13-82f8aab966c3)
+### Output:
+![image](https://github.com/user-attachments/assets/66c0bd7c-81d8-4825-8b9e-2d2348afcf0b)
+
 
 
 
